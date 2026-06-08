@@ -47,7 +47,8 @@ INSERT INTO users VALUES
 (5, 'David', 'david@test.com', 95000, 1, CURRENT_TIMESTAMP),
 (6, 'Emma', 'emma@test.com', 110000, 4, CURRENT_TIMESTAMP),
 (7, 'Sophia', 'sophia@test.com', 105000, 2, CURRENT_TIMESTAMP),
-(8, 'Liam', 'liam@test.com', 75000, 3, CURRENT_TIMESTAMP);
+(8, 'Liam', 'liam@test.com', 75000, 3, CURRENT_TIMESTAMP),
+(9, 'Vinay', 'vinay@test.com', 220000, 1, CURRENT_TIMESTAMP);
 
 
 -- =========================================
